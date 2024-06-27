@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 Me chamo Mauricio Felipe, estou estudando e fazendo projetos de:
 <br>
