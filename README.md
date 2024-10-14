@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Me chamo Mauricio Felipe, estou estudando e fazendo projetos de:
+Me chamo Mauricio Felipe, tenho 28 anos atualmente estudo prgramação pelo DevClub - CodeMasters (FullStacks). No momente, tenho feito projetos usando as seguintes ferramentas:
 <br>
 <br>
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
